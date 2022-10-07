@@ -2,7 +2,7 @@
 
 > ## Installation
 >
-> 1. Clone the [repository](https://github.com/THK-S-SOFTWARE/reactjs-without-css-framework)
+> 1. Clone the [repository](https://github.com/THK-S-SOFTWARE/reactjs-only)
 > 2. Install the dependencies
 > 3. Run the server
 > 4. Open the browser and go to `localhost:3000`
